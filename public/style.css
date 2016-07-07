@@ -1,0 +1,43 @@
+body{
+  background-image: url('http://az616578.vo.msecnd.net/files/2016/04/20/635967736454019387-1262705598_money.jpg')
+}
+.wrapper{
+  background-color: darkgray;
+  width: 60%;
+  margin: 0 auto;
+  border-radius: 20px;
+}
+h1{
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+}
+.buttonholder{
+  text-align: center;
+  margin:0 auto 15px auto;
+}
+button{
+  height: 87px;
+  width: 141px;
+  background-color: green;
+  color: burlywood;
+  margin-bottom: 15px;
+  border-radius: 37%
+}
+span{
+  font-size: 16px;
+  font-family: 'Indie Flower', cursive;
+}
+form{
+  display: inline-block;
+
+}
+ul{
+  text-align: center;
+  display: none;
+}
+li{
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  list-style-type: none;
+  padding-bottom: 10px;
+}
